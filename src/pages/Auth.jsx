@@ -13,7 +13,7 @@ const Auth = () => {
           className="flex items-center justify-center gap-2 mb-12 mx-auto cursor-pointer"
         >
           <FaServer className="text-primary text-2xl" />
-          <span className="text-3xl text-dark font-bold">Elithosting</span>
+          <span className="text-3xl text-dark font-bold">NovaHosting</span>
         </div>
         <h1 className="text-3xl text-dark font-bold text-center">
           {isLogin ? "SignIn" : "Sign up"}
